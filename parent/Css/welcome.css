@@ -1,0 +1,19 @@
+.text11{
+    position: absolute;
+    width: 769px;
+    height: 162px;
+    left: 120px;
+    top: 150px;
+    font-family: 'Geomanist';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 140%;
+/* or 81px */
+
+letter-spacing: 0.02em;
+
+/* Gray/Gray1 */
+
+color: #333333;
+}
